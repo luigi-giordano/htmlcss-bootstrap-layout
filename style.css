@@ -1,4 +1,0 @@
-.container, [class^="col"]{
-  border: 1px solid black;
-  height: 100%;
-}
